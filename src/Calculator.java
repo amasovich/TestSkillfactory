@@ -1,5 +1,6 @@
 import java.util.Scanner;
 
+// Класс Калькулятор
 public class Calculator {
 
     // Основной метод для запуска калькулятора
