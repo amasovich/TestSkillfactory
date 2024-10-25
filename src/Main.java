@@ -4,5 +4,6 @@ public class Main {
         // Создание экземпляра калькулятора и запуск
         Calculator calculator = new Calculator();
         calculator.start(); // Запуск основного метода калькулятора
+        calculator.start();
     }
 }
